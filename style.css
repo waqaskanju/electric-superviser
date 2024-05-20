@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Jameel;
+    src: url(Jameel.ttf);
+  }
+
+.urdu {
+  font-family: Jameel;
+  font-size: 50px;
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
